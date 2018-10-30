@@ -1,2 +1,2 @@
 # Cmake-studying
-This repository is to note some important shjt about cmake
+This repository is to note some important notes about cmake
